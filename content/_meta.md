@@ -1,8 +1,11 @@
 ---
-Logo: image/leaf_256x256.png
-Tagline: My portfolio.
+Logo: image/me.jpg
+Tagline: Studying webprogramming at BTH
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/KhalidS3/design-v3
       icon: github
+    - title: Link till kursens sida.
+      url: https://dbwebb.se/kurser/design-v3
+      icon: leaf
 ---

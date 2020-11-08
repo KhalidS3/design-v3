@@ -3,7 +3,9 @@ Title: About
 Description: About page
 ---
 
-About page
+About course
 =============================
 
-About me
+Kursen handlar om att underlätta webbdesign och använderbart för "användaren".
+
+![img](image/meme.jpg)
