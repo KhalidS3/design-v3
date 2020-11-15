@@ -1,6 +1,7 @@
 ---
 Title: Info
 Description: Information about markdown
+icon: fas fa-info
 ---
 
 Some documentations and examples for markdown

@@ -1,6 +1,7 @@
 ---
 Title: About
 Description: About page
+icon: fas fa-user
 ---
 
 About course
