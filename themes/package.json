@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "lint": "stylelint \"**/*.scss\"",
         "watch": "sass khalid/scss/style.scss khalid/css/style.css --no-source-map",
-        "watch-min": "sass khalid/scss/style.scss khalid/style.min.css --no-source-map --style compressed --watch",
+        "watch-min": "sass khalid/scss/style.scss khalid/css/style.min.css --no-source-map --style compressed --watch",
         "style": "sass khalid/scss/style.scss khalid/css/style.css --no-source-map",
         "style-min": "sass khalid/scss/style.scss khalid/css/style.min.css --no-source-map --style compressed"
     },
