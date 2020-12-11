@@ -12,17 +12,17 @@ Design course report of course moments
 * [kmom02](report/kmom02) -->
 
 <div class="kmom-box">
-    <a href="#"><h2>Kmom1</h2></a>
+    <a href="report/kmom01"><h2>Kmom1</h2></a>
     <p>something about course moment</p>
 </div>
 
 <div class="kmom-box">
-    <a href="#"><h2>Kmom2</h2></a>
+    <a href="report/kmom02"><h2>Kmom2</h2></a>
     <p>something about course moment</p>
 </div>
 
 <div class="kmom-box">
-    <a href="#"><h2>Kmom3</h2></a>
+    <a href="report/kmom03"><h2>Kmom3</h2></a>
     <p>something about course moment</p>
 </div>
 
@@ -41,7 +41,7 @@ Design course report of course moments
     <p>something about course moment</p>
 </div>
 
-<div class="kmom-box">
+<div class="kmom-box project">
     <a href="#"><h2>Kmom10</h2></a>
     <p>something about course moment</p>
 </div>
